@@ -39,7 +39,7 @@ function [P,Uinit,output] = cp_als_qr_svd(X,R,varargin)
 % DE-AC04-94AL85000, there is a non-exclusive license for use of this
 % work by or on behalf of the U.S. Government. Export of this data may
 % require a license from the United States Government.
-% The full license terms can be found in the file LICENSE.txt
+% The full license terms can be found in the file TT_LICENSE.txt
 
 %% Extract number of dimensions and norm of X.
 N = ndims(X);
